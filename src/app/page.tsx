@@ -29,7 +29,7 @@ export default function Page(): JSX.Element {
     "Next.js",
     "Node.js",
     "MongoDB",
-    "MySQL",
+    "Python",
     "Tailwind CSS",
     "Git",
   ];
